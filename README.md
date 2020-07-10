@@ -1,4 +1,4 @@
-## Mikael Karon
+## Find me
 
 - Email: [mikael@karon.se](mailto:mikael@karon.se)
 - Website: [https://mikael.karon.se](https://mikael.karon.se)
@@ -9,6 +9,6 @@
 - StackOverflow: [https://stackoverflow.com/story/mikaelkaron](https://stackoverflow.com/story/mikaelkaron)
 - NPM: [https://www.npmjs.com/~mikaelkaron](https://www.npmjs.com/~mikaelkaron)
 
-## Overview
+## About me
 
 I solve problems for a living. I am passionate about what I do, the applications I develop, and the solutions I architect. I am an enthusiastic team player who loves to contribute.
