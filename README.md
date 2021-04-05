@@ -6,7 +6,7 @@
 - GitLab: [https://gitlab.com/mikaelkaron](https://gitlab.com/mikaelkaron)
 - LinkedIn: [https://linkedin.com/in/mikaelkaron](https://linkedin.com/in/mikaelkaron)
 - Twitter: [https://twitter.com/mikaelkaron](https://twitter.com/mikaelkaron)
-- Instagram: [https://www.instagram.com/mikaelkaron](https://www.instagram.com/mikaelkaron)
+- Instagram: [https://instagram.com/mikaelkaron](https://instagram.com/mikaelkaron)
 - StackOverflow: [https://stackoverflow.com/story/mikaelkaron](https://stackoverflow.com/story/mikaelkaron)
 - NPM: [https://www.npmjs.com/~mikaelkaron](https://www.npmjs.com/~mikaelkaron)
 
