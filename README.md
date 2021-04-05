@@ -8,7 +8,7 @@
 - Twitter: [https://twitter.com/mikaelkaron](https://twitter.com/mikaelkaron)
 - Instagram: [https://instagram.com/mikaelkaron](https://instagram.com/mikaelkaron)
 - StackOverflow: [https://stackoverflow.com/story/mikaelkaron](https://stackoverflow.com/story/mikaelkaron)
-- NPM: [https://www.npmjs.com/~mikaelkaron](https://www.npmjs.com/~mikaelkaron)
+- NPM: [https://npmjs.com/~mikaelkaron](https://npmjs.com/~mikaelkaron)
 
 ## About me
 
