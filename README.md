@@ -2,13 +2,14 @@
 
 - Email: [mikael@karon.se](mailto:mikael@karon.se)
 - Website: [https://mikael.karon.se](https://mikael.karon.se)
-- GitHub: [https://github.com/mikaelkaron](https://github.com/mikaelkaron)
-- GitLab: [https://gitlab.com/mikaelkaron](https://gitlab.com/mikaelkaron)
-- LinkedIn: [https://linkedin.com/in/mikaelkaron](https://linkedin.com/in/mikaelkaron)
-- Twitter: [https://twitter.com/mikaelkaron](https://twitter.com/mikaelkaron)
-- Instagram: [https://instagram.com/mikaelkaron](https://instagram.com/mikaelkaron)
-- StackOverflow: [https://stackoverflow.com/story/mikaelkaron](https://stackoverflow.com/story/mikaelkaron)
-- NPM: [https://npmjs.com/~mikaelkaron](https://npmjs.com/~mikaelkaron)
+- GitHub: [mikaelkaron](https://github.com/mikaelkaron)
+- GitLab: [mikaelkaron](https://gitlab.com/mikaelkaron)
+- LinkedIn: [mikaelkaron](https://linkedin.com/in/mikaelkaron)
+- X: [mikaelkaron](https://twitter.com/mikaelkaron)
+- BlueSky [mikaelkaron.bsky.social](https://bsky.app/profile/mikaelkaron.bsky.social)
+- Instagram: [mikaelkaron](https://instagram.com/mikaelkaron)
+- StackOverflow: [mikaelkaron](https://stackoverflow.com/story/mikaelkaron)
+- NPM: [mikaelkaron](https://npmjs.com/~mikaelkaron)
 
 ## About me
 
